@@ -1,0 +1,72 @@
+---
+title: About
+description: Small description about me
+---
+
+
+# Hello, i'm Yev 👋
+
+My full name is ***Evgeniy Nekrasov***, but everyoone just call me ***Yev***. I was
+born in [Kyrgyzstan](https://es.wikipedia.org/wiki/Kirguist%C3%A1n) and have been 
+chasing pixels, ideas, and new horizonts evere since.
+
+
+### First Byte - Kyrgyzstan, early 2000s
+Picture a **Pentium II**, a 10-12 year old boy, and the unmistakable screech of a 56k
+modem connection...
+
+***HERE NOICE***
+
+I played a couple of DOS games, doodled in [**MS Paint**](https://es.wikipedia.org/wiki/Microsoft_Paint),
+and didn't event think how all of these is working. Just was enjoing the content. 
+
+### Café clicks - Bulgaria 2003
+My family moved to Bulgaria, and my only computer time was in smoky cybercafés whatever
+my friends and i battled demons in [**Diablo II**](https://es.wikipedia.org/wiki/Diablo_II).
+School somehow skipped IT classes altogether, so computers stayed a hobby, not a subject.
+
+### New life - Spain, 2007
+Next stop, Spain. High school 'informatics' arrived just as i was still decoding Spanish language,
+so very little stuck. I shelved tech and explored everething else - studying **Fine arts** in Bulgaria,  **Ephemeral Architecture**,
+**Product Design** in Spain, and working every job from waiter to over-land freight traffic manager.
+
+### The accidental "Hello World"
+Fast-forward to the COVID-19 lockdown. Over coffe with a friend, the questrion dropped:
+***Ever tried programming?***
+I hadn't, by why no? I installed [Python](https://www.python.org/), opened a [Spyder IDE](https://www.spyder-ide.org/), and typed:
+
+```Python
+print("Hello World")
+```
+
+I was not love from first sign xD - every tiny change broke my things and the syntax 
+felt alien. But curiosity make people send and machine to Mars and i keeped poking
+around xD.
+
+### Butterflies in the Browser
+The spark came when i touched front-end code. A scrappy bit of HTML, some bvery broken CSS,
+and a one-line main.js
+
+```js
+console.log("this is a string");
+```
+
+Suddenly the browser responded, and i felt those "butterflies in the stomach". Ideas 
+flooded in faster that i could type.
+
+### Bootcamp to backlog
+I dove into a bootcamp and just in time i finished it i landed my first role as a 
+**develop/designer**. Now i'm sampling every tech stack i can find-C, Rust, C#, Assembly,
+EcmaScript, and much more xD Love evertything.
+
+## Why this blog exist
+This space is my digital lab note:
+- Experiments that works (and plenty that don't)
+- Note on tools, languages, and workflows
+- Reflections
+- Resources i wish someone had handled me on day one.
+
+If you're a curious soul, a career-changer, or just nostalgic for the hiss 
+of dial-up, you'll feel right at home here. Thanks for reading.
+
+- Yev
